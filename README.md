@@ -1,2 +1,2 @@
-# THIS IS EXETER WITH NO LOGGER NO HIDDEN LOGGERS OR ANYTHING
+# exeter has been added loggers mutiple times this exeter is made by xanthe with no logger.
  
