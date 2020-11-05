@@ -1,0 +1,1 @@
+First things first, Download the zip file. Open the config.json, add your token, ID, Prefix(I took password out and instead put ID mostly used). Next run close it and make sure to save. Next open exeter and it will show everything U need such as "exeter" "prefix" and etc. After that enjoy.
