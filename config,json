@@ -1,7 +1,7 @@
 {
-    "token": "",
-    "id": "",
-    "prefix": "",
+    "token": "token here",
+    "password": "password here",
+    "prefix": "prefix",
     
     "nitro_sniper": true, 
     "giveaway_sniper": true,
